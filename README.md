@@ -1,3 +1,10 @@
-# My Awesome Book
+This script to manage hexo for post or other writings in case use **gitbook** as text editor. Actually you need to run it manually. Next time I will add it to tray system. 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This script will automatically
+- generate table index called **SUMMARY.md**
+- 
+
+# How to use
+file executable will be placed in ```Project_folder/source/space/import/Book_name``` 
+
+# 
