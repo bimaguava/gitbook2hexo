@@ -1,4 +1,4 @@
-Is personal needs script to manage hexo to post or other writings in case using **gitbook** as text editor.
+Is 'personal workflow' script to manage Hexo blog or other writings in case using **gitbook** as text editor.
 
 This script will automatically
 - generate table index called **SUMMARY.md**
