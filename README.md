@@ -40,4 +40,5 @@ And execute script
 ./sed.sh
 ```
 
-# Thanks ...
+# To do
+- replace the defeult push button with sed script
