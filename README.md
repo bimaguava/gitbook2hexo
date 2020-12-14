@@ -17,7 +17,7 @@ wget https://iot.bzh/download/public/2017/GitBook/gitbook-editor-7.0.12-linux-x6
 sudo dpkg -i gitbook-editor-7.0.12-linux-x64.deb
 ```
 
-**Windows** using Chocolately
+**Windows** using Chocolately and (for running bash terminal) https://gitforwindows.org/
 ```
 choco install gitbook-editor
 ```
