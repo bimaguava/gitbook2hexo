@@ -4,7 +4,7 @@ This script will automatically
 - generate table index called **SUMMARY.md**
 - "smart" deployment to github
 
-# Gitbook Editor
+# GitBook Editor
 **Linux** Download it from https://github.com/GitbookIO/editor-legacy/releases. (Legacy)
 ```
 tar -xvzf gitbook-linux32.tar.gz
@@ -41,4 +41,5 @@ And execute script
 ```
 
 # To do
-- replace the defeult push button with sed script
+- replace the default GitBook push button with sed script
+- manually input commit message
